@@ -1,14 +1,10 @@
 ---
 title: 方丈
-excerpt: T. Hsiao
 author: Hsiao
-tags: featured
 options: [minihead]
 categories:
   - blog
 background-image: flickr-froderik.jpg
-style: |
-  @media screen and (max-width: 820px){p.hws{display: none;}}  
 ---
 
 鸭长明的《方丈记》：逝川流水不绝，后浪已不复为前浪。浮于凝滞之泡沫，忽而消佚，忽而碰撞，却无长久飘摇之例。世人与栖息之处，不过如此。
