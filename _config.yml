@@ -11,8 +11,8 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: Tianbai Xiao
-description: 和光同尘
+title: 涉
+description: Tianbai Xiao
 owner:
   name: Tianbai Xiao
   url: "http://xiaotianbai.com" # your URL
@@ -29,10 +29,10 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Tianbai Xiao  
-  text: Research Associate
+  text: Research Associate in Applied Mathematics
 # - displayed at the bottom
-closing-head: _Your closing_
-closing-para: _Your detailed closing_
+closing-head: 和光同尘
+closing-para: softens the glare, unifies with the mundane
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
@@ -41,7 +41,8 @@ social:
   #linkedin-square: https://linkedin.com/in/_username_
   #facebook-official: https://facebook.com/_username_
   #google-plus-square: https://plus.google.com/u/0/+_username_
-  email: /contact/ # you can configure and use this contact page or use your email addy
+  #email: /contact/ # you can configure and use this contact page or use your email addy
+  email: i@xiaotianbai.com # you can configure and use this contact page or use your email addy
   #flickr:
   instagram: https://www.instagram.com/vavrines
   #youtube-square:
