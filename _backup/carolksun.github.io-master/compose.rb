@@ -47,7 +47,7 @@ This script helps you create a post. It adds it to the _drafts folder.
 to accept the default you can just hit return.)
 
 This site has two types of posts:
-- Topics: blog posts
+- blog: blog posts
 - Works: portfolio entries
 
 eoh
@@ -76,7 +76,7 @@ want it to have a priority under 0.5. What priority should it have?
     break
   end
 else
-  categories << 'topics'
+  categories << 'blog'
   puts <<-eoh
 
 The first 10 featured posts are listed on the front page and get a higher
@@ -93,7 +93,7 @@ priority in the site map. Is this a featured post?
 
 If this is a part of a series of posts that you want to be displayed with
 back/next links, you can specify a sub-category name. Note that only the
-first topic in the sub-category is listed in the topics index. Also note
+first topic in the sub-category is listed in the blog index. Also note
 that categories should probably have alphanumeric, underscores, hyphens,
 and space characters only. Tip: I title my first topic in the sub-category
 with the same name as the sub-category so that the breadcrumb looks nice.
