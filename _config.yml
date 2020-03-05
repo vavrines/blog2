@@ -30,6 +30,10 @@ lang: en-us # used in HTML lang attributes
 greeting:
   title: Tianbai Xiao  
   text: Research Associate in Applied Mathematics
+
+        I received my doctorate in Fluid Mechanics from Peking University, and now work in Department of Mathematics at Karlsruhe Institute of Technology. I can be found on Google Scholar and ResearchGate.
+
+        Sometimes I do photography. I guess art is what gets lost in talk.
 # - displayed at the bottom
 closing-head: 和光同尘
 closing-para: softens the glare, unifies with the mundane
