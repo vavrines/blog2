@@ -91,10 +91,10 @@ compose:
 
 # choose where to put back and next links:
 # top, bottom, both, none
-navlinks: bottom
+navlinks: top
 
 # expecting more works? mark your list as in-progress
-works_in_progress: yes
+works_in_progress: no
 
 # Github pages posts future posts by default.
 # You'll want to move the user guide posts to _drafts if you set this to true.
