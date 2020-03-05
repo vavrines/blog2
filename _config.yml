@@ -98,7 +98,7 @@ works_in_progress: no
 
 # Github pages posts future posts by default.
 # You'll want to move the user guide posts to _drafts if you set this to true.
-future: true
+future: false
 
 # If you have custom extensions, specifically includes/_my/custom.scss,
 # set this to yes
