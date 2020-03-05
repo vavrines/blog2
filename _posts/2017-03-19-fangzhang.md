@@ -7,6 +7,7 @@ options: [minihead]
 categories:
   - blog
   - prose
+  - topics
 background-image: flickr-froderik.jpg
 style: |
   @media screen and (max-width: 820px){p.hws{display: none;}}  
