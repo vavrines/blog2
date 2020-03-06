@@ -4,11 +4,11 @@ layout: default
   <section class="wrapper{% if page.options contains 'minihead' %} minihead{% endif %} style5">
     <div class="inner{% if page.options contains 'fullwidth' %} fullwidth{% endif %}">{%
       unless site.navlinks == 'none'
-%}{%    if page.categories contains 'works'
-%}{%      assign idxperma = '/works/' | prepend: site.baseurl
+%}{%    if page.categories contains 'portfolio'
+%}{%      assign idxperma = '/portfolio/' | prepend: site.baseurl
 %}{%      assign idxtitle = 'Works Index'
 %}{%      assign idxbutton = 'Index'
-%}{%      include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date'
+%}{%      include fn_groupsort_reverse.html unsorted=site.categories.portfolio groupby='priority' sortby='date'
 %}{%    endif
 %}{%    if page.categories.first == 'blog' and page.categories.last != 'blog'
 %}{%      assign idxperma = page.categories | join: '/' | prepend: '/' | prepend: site.baseurl | append: '/'
@@ -32,7 +32,7 @@ layout: default
       <span id="post-date">{{ page.date  | date: "%-d %B %Y" }}</span><hr
         style="margin-top:3px;" />{%
       endunless
-%}{%  if page.categories contains 'works' and page.tags %}
+%}{%  if page.categories contains 'portfolio' and page.tags %}
       <h4>Skills</h4>
   {%    assign work = page
 %}{%    include techlist.html %}
@@ -54,7 +54,7 @@ layout: default
 %}{%    include author-block.html %}
   {%  endunless
 %}{%  if jekyll.environment == "production"
-%}{%    unless page.options contains nocomment or page.categories contains 'works'
+%}{%    unless page.options contains nocomment or page.categories contains 'portfolio'
 %}{%      include disqus.html %}
   {%    endunless
 %}{%  endif

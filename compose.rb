@@ -61,7 +61,7 @@ end
 
 categories = Array.new
 if type=='w'
-  categories << 'works'
+  categories << 'portfolio'
   puts <<-eoh
 
 Higher priority works are listed first and also get the same priority value

@@ -2,7 +2,7 @@
 priority: 0.6
 title: On photography
 excerpt: A collection of works
-categories: works
+categories: portfolio
 background-image: hanaba.png
 tags:
   - photography
