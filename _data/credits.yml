@@ -99,24 +99,24 @@ inspiration:
   - name : Adam Garrett-Harris
     url  : https://twitter.com/agarrharr
 #
-other-image-credit: All other images are public domain.
+#other-image-credit: All other images are public domain.
 #
 # Chances are you replaced at least the banner below and will want
 # to change the attribution.
 # 
 # 'lic' values correspond to the keys in the license hash above
 #
-image-credit:
-  - src : /images/caustic_light.jpg
-    by  : fdecomite
-    url : https://www.flickr.com/photos/fdecomite/1907376527/
-    lic : ccb2
-  - src : /images/flickr-froderik.jpg
-    by  : froderik
-    url : https://www.flickr.com/photos/froderik/9355090806/
-    lic : ccbsa2
-  - src : /images/banner.jpg
-    by  : Konstaninos Dafallas
-    url : https://www.flickr.com/photos/72906133@N00/4011647045/
-    lic : ccb2
+#image-credit:
+#  - src : /images/caustic_light.jpg
+#    by  : fdecomite
+#    url : https://www.flickr.com/photos/fdecomite/1907376527/
+#    lic : ccb2
+#  - src : /images/flickr-froderik.jpg
+#    by  : froderik
+#    url : https://www.flickr.com/photos/froderik/9355090806/
+#    lic : ccbsa2
+#  - src : /images/banner.jpg
+#    by  : Konstaninos Dafallas
+#    url : https://www.flickr.com/photos/72906133@N00/4011647045/
+#    lic : ccb2
 
