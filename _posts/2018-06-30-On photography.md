@@ -1,13 +1,12 @@
 ---
 priority: 0.6
-title: On photography
-excerpt: A collection of works
+title: On Photography
+excerpt: finished and on going projects
 categories: portfolio
 background-image: hanaba.png
 tags:
   - photography
   - art
-  - self
 ---
 
 #### Collections
