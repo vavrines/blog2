@@ -1,7 +1,7 @@
 ---
 priority: 0.6
 title: On Photography
-excerpt: finished and on going projects
+excerpt: finished and ongoing projects
 categories: portfolio
 background-image: hanaba.png
 tags:
