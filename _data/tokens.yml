@@ -41,9 +41,9 @@ extra-image-credit:
 
 # If you want to make a statement about other images not credited, such as your
 # blog pictures.
-other-image-credit: |
-  All other images are public domain. Although, gimme a shout
-  if you want to share the blog photos of my friends and family. 👪
+#other-image-credit: |
+#  All other images are public domain. Although, gimme a shout
+#  if you want to share the blog photos of my friends and family. 👪
 
 # Any other site-specific things you'd rather have .gitexcluded
 # ...
