@@ -1,6 +1,6 @@
-# arkadianriver.com
+# xiaotianbai.com
 
-My personal web site, using the awesome design of http://html5up.net/spectral by
+Personal website cloned from [@ajlkn](https://github.com/arkadianriver), which uses the awesome design of http://html5up.net/spectral by
 the talented [@ajlkn](http://twitter.com/ajlkn).
 
 I morphed that design into this Jekyll [theme](#theme-note) for blog and portfolio entries.
@@ -8,20 +8,12 @@ I morphed that design into this Jekyll [theme](#theme-note) for blog and portfol
 uses templates to generate all the publishable content as static
 HTML files (as opposed to something like WordPress, which has files that pull
 data from a database at runtime).
-This repo is the exact same code I use for my site (excluding my posts and
-some data files created from templates where noted).
-
-- [Features](https://arkadianriver.github.io/arkadianriver.com/topics/user-guide/features.html)
-- [Authoring Guide](https://arkadianriver.github.io/arkadianriver.com/topics/user-guide/)
 
 ## If you like it
 
 You can clone or fork this repo as a [theme](#theme-note) for your own blog.
-Because it doesn't use any plugins, you can easily
-[host it on GitHub Pages](https://jekyllrb.com/docs/github-pages/#deploying-jekyll-to-github-pages).
-Even so, I recommend cloning your fork locally to create and preview your posts,
-regardless of where you choose to publish.
-
+Because it doesn't use any plugins, you can easily host it on 
+[GitHub Pages](https://jekyllrb.com/docs/github-pages/#deploying-jekyll-to-github-pages).
 With it downloaded and with Ruby, RubyGems, and Jekyll 3.1.2 or higher installed, you can use the post-creation script,
 preview how your site looks and functions, and properly view the theme's User Guide.
 
@@ -39,8 +31,8 @@ preview how your site looks and functions, and properly view the theme's User Gu
    Image | Description
    ------|------------
    **`banner.jpg`** | The main large image on the front page
-   **`pic01.jpg`** | The topics image
-   **`pic02.jpg`** | The works image
+   **`pic01.jpg`** | The illustrative blog image
+   **`pic02.jpg`** | The illustrative portfolio image
 
 1. From the repo's root directory, start Jekyll to preview as you write.
    
@@ -61,8 +53,8 @@ preview how your site looks and functions, and properly view the theme's User Gu
 
 1. Test and publish your site:
 
-   If you're building your site on Windows (like me) you can use the `site.bat` file;
-   otherwise, just use the Jekyll commands as indicated in the site command reference below.
+   If you're building your site on Windows, use the `site.bat` file;
+   otherwise, use the Jekyll commands as indicated in the site command reference below.
    
    If you use WinSCP to sync with your remote site, you can use the _publish_ option.
    To publish with WinSCP, set up a `_site.env` file as described in the comments of `site.bat`,
@@ -90,7 +82,7 @@ preview how your site looks and functions, and properly view the theme's User Gu
    ```
 
 ## Theme note
-This is a theme in the old sense of the word. This is not a newer _gem-based_ theme (yet).
+This is a theme in the old sense of the word. This is not a newer _gem-based_ theme yet.
 
 ## License
 MIT
