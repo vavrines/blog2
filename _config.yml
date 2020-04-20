@@ -29,7 +29,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Tianbai Xiao  
-  text: Research Associate in Applied Mathematics
+  text: Applied Mathematics / Amateur Photography / Literary Criticism / Prose
 # - displayed at the bottom
 closing-head: 和光同尘
 closing-para: softens the glare, unifies with the mundane
