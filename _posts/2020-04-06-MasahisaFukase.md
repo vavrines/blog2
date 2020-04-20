@@ -1,6 +1,6 @@
 ---
 title: 摄影之毒
-excerpt: 读书集
+excerpt: 文艺集
 author: hsiao
 options: [minihead]
 categories: blog
