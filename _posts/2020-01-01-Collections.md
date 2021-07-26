@@ -38,6 +38,10 @@ Antony Jameson: [computational fluid dynamics past present and future](https://t
 
 Clément Mouhot: [On the Linear Boltzmann Equation](https://cmouhot.files.wordpress.com/2010/01/chapter4.pdf)
 
+## Programming
+
+[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
 ## Machine Learning
 
 MIT 18.337: [Parallel Computing and Scientific Machine Learning](https://mitmath.github.io/18337/)
