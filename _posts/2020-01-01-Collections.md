@@ -62,6 +62,8 @@ My preliminary understanding of uncertainty quantification [[PDF]](https://tbxia
 
 [Spack](https://spack.io/): scientific computing manager for supercomputers
 
+[PETSc](https://petsc.org/release/): suite of data structures and routines for solving partial differential equations
+
 [OpenFOAM](https://openfoam.org/): computational fluid dynamics platform
 
 [SU2](https://su2code.github.io/): multiphysics simulation and design software
