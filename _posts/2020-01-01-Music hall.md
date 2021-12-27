@@ -1,6 +1,6 @@
 ---
 priority: 0.6
-title: Music wall
+title: Music hall
 excerpt: collection of albums
 categories: portfolio
 background-image: hanaba.png
@@ -8,11 +8,15 @@ tags:
   - music
 ---
 
-Live shows
+### Albums
+
+<iframe src="https://open.spotify.com/embed/album/5RRib8eRMf8OthdvJX26iU?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+### Live shows
 
 <iframe src="//player.bilibili.com/player.html?aid=90614147&bvid=BV127411w7mZ&cid=154745985&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-Collection of albums, maybe useful for furnishing a bedroom wall someday :-x
+### Collection of album arts, maybe useful for furnishing a bedroom wall someday :-x
 
 <center class="half">
     <img src="https://i.postimg.cc/mrQr6H99/s11187340.jpg" width="250"/>
