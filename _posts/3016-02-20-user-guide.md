@@ -1,7 +1,6 @@
 ---
 title: User Guide
 excerpt: How to use this theme
-tags: featured
 author: arkadianriver
 options: [minihead]
 permalink: /topics/user-guide/
