@@ -15,7 +15,7 @@ description: Tianbai Xiao
 owner:
   name: Tianbai Xiao
   url: "http://xiaotianbai.com" # your URL
-first_published: 2021\2 # if migrating another site, the year of your first publish
+first_published: 2022 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
 url: "http://xiaotianbai.com" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
