@@ -3,7 +3,8 @@ title: 五岛晚邮
 excerpt: 文艺集
 author: hsiao
 options: [minihead]
-categories: blog
+categories:
+    - backup
 background-image: flickr-froderik.jpg
 ---
 
