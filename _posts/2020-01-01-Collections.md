@@ -55,27 +55,3 @@ My preliminary understanding of uncertainty quantification [[PDF]](https://tbxia
 [codecogs](https://www.codecogs.com/latex/eqneditor.php): online LaTex equation generator
 
 [Pandoc](https://pandoc.org/index.html): a universal document converter
-
-## Scientific Softwares
-
-[John Burkardt](https://people.sc.fsu.edu/~jburkardt/): scientific computing source codes
-
-[Spack](https://spack.io/): scientific computing manager for supercomputers
-
-[PETSc](https://petsc.org/release/): suite of data structures and routines for solving partial differential equations
-
-[OpenFOAM](https://openfoam.org/): computational fluid dynamics platform
-
-[SU2](https://su2code.github.io/): multiphysics simulation and design software
-
-[PyFR](http://www.pyfr.org/): Python based framework for solving advection-diffusion type problems using the flux reconstruction method
-
-[Clawpack](https://www.clawpack.org/): conservation laws package
-
-[StaRMAP](https://www.math.temple.edu/~seibold/research/starmap/): staggered grid radiation moment approximation scheme
-
-[Mechsys](http://mechsys.nongnu.org): muti-physics simulation Library
-
-[MECCA](http://www.rolf-sander.net/messy/mecca/): module efficiently calculating the chemistry of the atmosphere
-
-[OpenMC](http://web.mit.edu/smharper/www/): Monte-Carlo particle transport code
