@@ -33,6 +33,14 @@ tags:
 
 [UnstEuler2D](https://github.com/arirepo/UnstEuler2D): unstructured 2D Euler solver
 
+## Finite element
+
+[FEniCS](https://fenicsproject.org/): solver for PDEs in variational form
+
+[Gridap](https://github.com/gridap/Gridap.jl): 100% Julia stack similar as FEniCS
+
+[deal.II](https://www.dealii.org/): C++ library
+
 ## Flux reconstruction
 
 [PyFR](http://www.pyfr.org/): Python based framework for solving advection-diffusion type problems using the flux reconstruction method
