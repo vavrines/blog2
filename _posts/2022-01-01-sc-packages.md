@@ -27,7 +27,11 @@ tags:
 
 [Clawpack](https://www.clawpack.org/): conservation laws package
 
+[Free CFD codes](http://ossanworld.com/cfdbooks/cfdcodes.html): creamer of the book _I do like CFD_
+
 [OpenFVM](http://openfvm.sourceforge.net/): no longer maintained
+
+[UnstEuler2D](https://github.com/arirepo/UnstEuler2D): unstructured 2D Euler solver
 
 ## Flux reconstruction
 
@@ -40,6 +44,10 @@ tags:
 [StaRMAP](https://www.math.temple.edu/~seibold/research/starmap/): staggered grid radiation moment approximation method
 
 [OpenMC](http://web.mit.edu/smharper/www/): Monte-Carlo particle transport codes
+
+[SPM](https://github.com/vavrines/SPM): Sn, Pn and Mn solvers for linear Boltzmann equation
+
+[ELSEPA](https://github.com/eScatter/elsepa): electron scatter calculator
 
 ## Climate
 
