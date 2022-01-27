@@ -21,6 +21,7 @@ tags:
 For furnishing a bedroom wall someday :-x
 
 <center class="half">
+    <img src="https://s2.loli.net/2022/01/28/o2IXs1Dk3r6pOhq.jpg" width="250"/>
     <img src="https://i.postimg.cc/mrQr6H99/s11187340.jpg" width="250"/>
     <img src="https://i.postimg.cc/zGGMQZRF/s11174008.jpg" width="250"/>
     <img src="https://s2.loli.net/2022/01/28/s7qiGJkzoBEaFuV.jpg" width="250"/>
