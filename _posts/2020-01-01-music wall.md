@@ -27,4 +27,5 @@ For furnishing a bedroom wall someday :-x
     <img src="https://i.postimg.cc/SRRZJJNh/s2676314.jpg" width="250"/>
     <img src="https://i.postimg.cc/Sx6GQW79/s4717263.jpg" width="250"/>
     <img src="https://i.postimg.cc/1tnBQbWm/s3938828.jpg" width="250"/>
+    <img src="https://s2.loli.net/2022/01/28/PH5ICrqTJ7Vf6im.jpg" width="250"/>
 </center>
