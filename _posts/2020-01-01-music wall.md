@@ -1,7 +1,7 @@
 ---
 priority: 0.6
-title: Music hall
-excerpt: collection of albums
+title: Music wall
+excerpt: collection of music
 categories: portfolio
 background-image: hanaba.png
 tags:
@@ -16,7 +16,9 @@ tags:
 
 <iframe src="//player.bilibili.com/player.html?aid=90614147&bvid=BV127411w7mZ&cid=154745985&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-### Collection of album arts, maybe useful for furnishing a bedroom wall someday :-x
+### Album arts
+
+For furnishing a bedroom wall someday :-x
 
 <center class="half">
     <img src="https://i.postimg.cc/mrQr6H99/s11187340.jpg" width="250"/>
