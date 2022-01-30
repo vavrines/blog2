@@ -31,13 +31,13 @@ greeting:
   text: My name is Tianbai. I know very little about anything, while I’m working on physics, programming and fine arts. I create pieces which solve the problems there. Often the problems are themselves caused by other pieces, which were also written by me. I feel like I'm a pure oriental from bones.
 # - displayed at the bottom
 closing-head: 和光同尘
-closing-para: breeding lilacs out of the dead land, mixing memory and desire
+closing-para: To every thing there is a season.
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
   #twitter: https://twitter.com/_username_
   github: https://github.com/vavrines
-  #linkedin-square: https://linkedin.com/in/_username_
+  linkedin-square: https://www.linkedin.com/in/tianbai-xiao-677a4321b/
   #facebook-official: https://facebook.com/_username_
   #google-plus-square: https://plus.google.com/u/0/+_username_
   #email: /contact/ # you can configure and use this contact page or use your email addy
