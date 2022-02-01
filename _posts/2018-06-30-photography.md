@@ -5,7 +5,7 @@ excerpt: 摄影集
 categories: portfolio
 background-image: hanaba.png
 tags:
-  - photography
+  - portfolio
   - art
 ---
 
